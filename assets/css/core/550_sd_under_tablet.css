@@ -1,0 +1,10 @@
+@media screen and (max-width: 979px) {
+  .post_content {
+    overflow-x: hidden;
+    position: relative; }
+
+  .rp_box_tt {
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap; } }
+
+

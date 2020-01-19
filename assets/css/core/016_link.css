@@ -1,0 +1,9 @@
+a {
+  color: #07a;
+  text-decoration: none;
+  -webkit-transition: .2s;
+  transition: .2s; }
+  a:hover:not(.non_hover) {
+    color: #222; }
+
+

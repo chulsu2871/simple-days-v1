@@ -1,0 +1,15 @@
+.blog_card {
+  border-radius: 2px;
+  color: #555; }
+
+.bc_thum {
+  padding-top: 35%;
+  border-radius: 0 4px 4px 0; }
+
+.bc_entry {
+  padding: 10px 15px; }
+
+.bc_domain {
+  color: #062; }
+
+
